@@ -20,3 +20,8 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 	Is the code of both branches mix toghether, the diagram is because each branch has its own commits, but once merge they are order by timestamp in the log.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	the pros are that it does a lot of the work for you and is aesy, the cons are that is extremly sensitive with the changes and it cannot evaluate code for you, from one logic to other, even if they have the same output.
+
