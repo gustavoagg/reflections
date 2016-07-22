@@ -16,3 +16,7 @@ What are some situations when branches would be helpful in keeping your history 
 How do the diagrams help you visualize the branch structure?
 
 	Show each commit parent so to have a best understanding of the relations from each branch to the main one
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	Is the code of both branches mix toghether, the diagram is because each branch has its own commits, but once merge they are order by timestamp in the log.
