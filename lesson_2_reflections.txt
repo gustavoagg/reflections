@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+	You define the folder that contains the files your working on, you need to do it so git can star tracking changes for each commit
