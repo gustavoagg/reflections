@@ -12,3 +12,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 	When you want to try something new or outside your main goal for the proyect, you keep your original proyect intact
+
+How do the diagrams help you visualize the branch structure?
+
+	Show each commit parent so to have a best understanding of the relations from each branch to the main one
